@@ -1,2 +1,2 @@
 # LaborData
-Labor Data for GTAP
+Labor Data for GTAP 12 Database 
